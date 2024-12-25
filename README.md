@@ -1,5 +1,5 @@
-# goit-js-hw-03
+# goit-js-hw-04
 
-js homework-03
+js homework-04
 
-https://denis-cactus.github.io/goit-js-hw-03/
+https://denis-cactus.github.io/goit-js-hw-04/
